@@ -31,7 +31,7 @@ mkdir myagent && cd myagent
 
 ![Preview](./img/PAT.png)
 
-* Be careful, kindly check attaintively for all the prompts
+* Be careful while agent configuration & kindly check attaintively for all the prompts 
 * Agent configuration 
 
 ```
