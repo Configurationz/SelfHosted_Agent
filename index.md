@@ -38,7 +38,7 @@ mkdir myagent && cd myagent
 ~/myagent$ ./config.sh
 ```
 ```
-server url = https://dev.azure.com/nykzar
+server url = https://dev.azure.com/<azure-username>
 ```
 ```
   ___                      ______ _            _ _
