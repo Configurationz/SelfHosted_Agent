@@ -40,7 +40,7 @@ mkdir myagent && cd myagent
 ```
 server url = https://dev.azure.com/<azure-username>
 ```
-```
+```yml
   ___                      ______ _            _ _
  / _ \                     | ___ (_)          | (_)
 / /_\ \_____   _ _ __ ___  | |_/ /_ _ __   ___| |_ _ __   ___  ___
