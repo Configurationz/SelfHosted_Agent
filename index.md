@@ -1,9 +1,8 @@
 
-Self hosted (Default) Agent configuration on any server where you want to deploy your application
--------------------------------------------------------------------------------------------------
+Self hosted (Default) Linux Agent configuration on any server where you want to deploy your application
+-------------------------------------------------------------------------------------------------------
 
-* Goto Organization Settings > Agent Pools > Default > Agents >
-  New Agent
+* Goto Organization Settings > Agent Pools > Default > Agents > New Agent
 
 ![Preview](./img/download-agent.png)
 
@@ -91,3 +90,5 @@ Scanning for tool capabilities.
 Connecting to the server.
 2023-09-24 07:59:56Z: Listening for Jobs
 ```
+
+### **[Official Documentation](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/linux-agent?view=azure-devops)**
